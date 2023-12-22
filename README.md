@@ -1,6 +1,6 @@
 ## 👋 Sobre mim
 
-##### 💻 | Desenvolvedor Back-end JR <br> 🥽 | Estudando LUA <br> 👑 | Owner & Founder: <a href="https://discord.gg/3uJ4tD9hs7">Next Development</a> (FiveM Development Server)
+##### 💻 | Desenvolvedor Back-end JR <br> 🥽 | JR LUA <br> 👑 | Owner & Founder: <a href="https://discord.gg/3uJ4tD9hs7">Next Development</a> (FiveM Development Server)
 
 ## 🔧 Tecnologias
 
